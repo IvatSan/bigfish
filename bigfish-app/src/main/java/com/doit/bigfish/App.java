@@ -1,7 +1,7 @@
 package com.doit.bigfish;
 
 /**
- * Hello world!
+ * Big Big Fish !
  *
  */
 public class App 
