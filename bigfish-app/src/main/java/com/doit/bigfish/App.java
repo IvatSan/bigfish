@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "xxx Wellcome to BigFish Application ! - DEV" );
+        System.out.println( "Your are wellcome to my BigFish test Application V2 !" );
     }
 }
