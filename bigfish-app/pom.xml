@@ -6,7 +6,10 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>bigfish-app</name>
-  <url>http://maven.apache.org</url>
+  <description>
+		<![CDATA[SIGCT - Bigfish Web Application]]>
+  </description>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
