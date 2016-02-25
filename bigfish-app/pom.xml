@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>bigfish-app</name>
   <description>
-		<![CDATA[SIGCT - Bigfish Web Application]]>
+		<![CDATA[Bigfish Web Application]]>
   </description>
 
   <dependencies>
